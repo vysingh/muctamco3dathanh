@@ -725,7 +725,7 @@
               },
               "[data-state-details]": {
                 "color": "#6b6763",
-                "font-family": "Montserrat",
+                "font-family": "Open Sans",
                 "height": "1.5em",
                 "margin-top": "-0.75em",
                 "padding-left": "1.25rem",
