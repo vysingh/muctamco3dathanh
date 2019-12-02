@@ -1414,6 +1414,8 @@ body {
   box-shadow: none !important;
 }
 .cid-rJrgMpK6R6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1920x1279.jpg");
 }
 .cid-rJrgMpK6R6 .mbr-section-subtitle {
@@ -1882,6 +1884,13 @@ body {
   text-align: center;
   color: #232323;
 }
+.cid-rJrgOn2VI8 .mbr-text,
+.cid-rJrgOn2VI8 .mbr-section-btn {
+  text-align: center;
+}
+.cid-rJrgOn2VI8 .card-title {
+  text-align: center;
+}
 .cid-rJrhaDmQ2k {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -1915,6 +1924,13 @@ body {
   .cid-rJrhaDmQ2k .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-rJrhaDmQ2k .card-title {
+  text-align: center;
+}
+.cid-rJrhaDmQ2k .mbr-text,
+.cid-rJrhaDmQ2k .mbr-section-btn {
+  text-align: center;
 }
 .cid-rJrhAmdESj {
   padding-top: 45px;
