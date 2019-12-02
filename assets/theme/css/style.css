@@ -398,7 +398,7 @@ nav .mbr-section-btn {
 .mbr-arrow-up-icon::before {
   content: "\203a";
   display: inline-block;
-  font-family: serif;
+  font-family: sans-serif;
   font-size: 32px;
   line-height: 1;
   font-style: normal;
